@@ -1,0 +1,29 @@
+[
+    {
+        "timestamp": "2025-07-08T17:08:25.887970",
+        "user_input": "Remind me to submit my AI assignment on Friday and email my advisor.",
+        "function": "create_calendar_event",
+        "parameters": {
+            "title": "Submit AI assignment",
+            "date": "Friday"
+        }
+    },
+    {
+        "timestamp": "2025-07-08T17:09:16.677147",
+        "user_input": "Remind me to submit my AI assignment on Friday and email my advisor.",
+        "function": "create_calendar_event",
+        "parameters": {
+            "title": "Submit AI assignment",
+            "date": "Friday"
+        }
+    },
+    {
+        "timestamp": "2025-07-09T23:45:01.939470",
+        "user_input": "Create a calendar event titled 'Submit CISSP paper' on 2025-07-12 and send a reminder email to advisor@example.com with subject 'Submission Notice' and body 'Assignment is due this Friday'.",
+        "function": "create_calendar_event",
+        "parameters": {
+            "title": "Submit CISSP paper",
+            "date": "2025-07-12"
+        }
+    }
+]
